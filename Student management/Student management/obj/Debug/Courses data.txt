@@ -1,0 +1,112 @@
+First year:MathII,Intro,Physics,MathI,,Structural Programming,Biology
+Second year:MathIII,Cell Biology,DS,Biophysics,Probability
+Third year:
+Fourth year:
+Name:Intro
+Code:CHW160
+Max Student:5
+Pre:-
+Hours:4
+-------------------------
+Name:Biology
+Code:BSC122
+Max Students:5
+Pre:-
+Hours:2
+-------------------------
+Name:Physics
+Code:BSC125
+Max Students:5
+Pre:-
+Hours:3
+----------------------------
+Name:MathI
+Code:BSC120
+Max Students:5
+Pre:-
+Hours:4
+---------------------------
+Name:EnglishI
+Code:HUM110
+Max Students:5
+Pre:-
+Hours:2
+--------------------------
+Name:Humanities
+Code:HUM114
+Max Students:5
+Pre:-
+Hours:2
+-------------------------
+Name:Structural Programming
+Code:CSW150
+Max Students:5
+Pre:CHW160
+Hours:3
+--------------------------
+Name:Biochemistry
+Code:BSC123
+Max Students:5
+Pre:BSC120
+Hours:2
+-------------------------
+Name:Electronics
+Code:BSC127
+Max Students:5
+Pre:BSC121
+Hours:3
+-------------------------
+Name:MathII
+Code:BSC121
+Max Students:5
+Pre:BSC122
+Hours:4
+-------------------------
+Name:EnglishII
+Code:HUM111
+Max Students:5
+Pre:HUM10
+Hours:2
+------------------------
+Name:Report Writing
+Code:HUM112
+Max Students:5
+Pre:-
+Hours:2
+-------------------------
+Name:Cell Biology
+Code:BSC270
+Max Students:5
+Pre:-
+Hours:2
+------------------------
+Name:Data Structure
+Code:DBA270
+Max Students:5
+Pre:CSW150
+Hours:3
+------------------------
+Name:MathIII
+Code:BSC222
+Max Students:5
+Pre:BSC121
+Hours:4
+-----------------------
+Name:Biophysics
+Code:BSC221
+Max Students:5
+Pre:BSC124
+Hours:2
+-----------------------
+Name:Probability
+Code:SCC232
+Max Students:5
+Pre:-
+Hours:3
+-----------------------
+Name:Operation Research
+Code:SCC231
+Max Students:5
+Pre:-
+Hours:3
+-----------------------
